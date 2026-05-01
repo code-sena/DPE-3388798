@@ -1,0 +1,20 @@
+Empresa real o empresa ficticia
+Core negocio
+	- Educación
+	- Energia
+	- Venta de aliementos
+	- Fabricar artesanias (xyz)
+Recursos tenologógicos tiene la empresa ?
+	- Inventario de tecnología
+	
+Actuamente como llevan el proceso
+	Registran inventario, ventas, insumos, constes de operación en cuadernos. 
+	
+Plan me mejora: 
+	- Se recomienda crear excel para llevar el control 
+		Ventas
+		Insumos
+		Costes de operación
+		
+Construir el word con el informe identificado 
+	

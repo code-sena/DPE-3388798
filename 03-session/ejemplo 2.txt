@@ -1,0 +1,47 @@
+Actividad: Evidencia GA1-220501046-AA3-EV01
+Informe sobre la mejora de productos y procesos con la incorporación de TIC
+Para esta evidencia, el aprendiz deberá elaborar un informe en el que identifique y proponga mejoras a los productos o procesos de un área de ocupación mediante la incorporación de Tecnologías de la Información y la Comunicación —TIC—.
+El informe debe abordar los siguientes aspectos:
+
+
+Planteamiento de mejoras con TIC
+El aprendiz deberá explicar qué mejoras puede aportar la incorporación de herramientas TIC, especialmente herramientas ofimáticas y colaborativas, dentro de una empresa o proceso productivo.
+
+
+Identificación de procesos por fortalecer
+Se deberán reconocer los procesos del área de ocupación que actualmente presentan oportunidades de mejora y que podrían optimizarse mediante el uso de tecnologías digitales.
+
+
+Presentación creativa del informe
+El informe podrá presentarse de forma creativa, por ejemplo, mediante cuentos, caricaturas, infografías, presentaciones interactivas u otro recurso elaborado con una herramienta TIC en línea.
+
+
+
+Orientación para desarrollar la evidencia
+Para realizar la actividad, el aprendiz puede trabajar con una empresa real o ficticia. La empresa seleccionada debe tener definido su core de negocio, es decir, la actividad principal que desarrolla.
+Algunos ejemplos de core de negocio pueden ser:
+
+
+Educación.
+Energía.
+Venta de alimentos.
+Fabricación de artesanías.
+Comercio de productos.
+Prestación de servicios.
+
+
+Una vez seleccionada la empresa, el aprendiz debe identificar qué recursos tecnológicos posee actualmente. Para esto puede elaborar un pequeño inventario tecnológico, indicando si la empresa cuenta con computadores, celulares, acceso a internet, correo electrónico, herramientas ofimáticas, aplicaciones de mensajería, sistemas de información, entre otros.
+También debe describir cómo se llevan actualmente los procesos dentro de la empresa. Por ejemplo, si el control de inventario, ventas, insumos o costos de operación se realiza en cuadernos, hojas sueltas o registros manuales.
+A partir de esa situación, el aprendiz debe proponer un plan de mejora mediante el uso de TIC. Un ejemplo básico puede ser implementar una hoja de cálculo en Excel o Google Sheets para llevar el control de:
+
+
+Ventas.
+Inventario.
+Insumos.
+Costos de operación.
+Reportes básicos del negocio.
+
+
+Redacción mejorada del cierre
+Como producto final, el aprendiz deberá construir un informe en Word en el que se identifique claramente la empresa seleccionada, su actividad principal, los procesos actuales, las dificultades encontradas y las mejoras propuestas mediante el uso de herramientas TIC.
+El documento debe estar organizado, tener buena redacción, presentar evidencias o ejemplos de las herramientas propuestas y explicar cómo estas contribuyen al mejoramiento de los productos o procesos de la empresa.
